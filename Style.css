@@ -1,0 +1,30 @@
+h1{background-color: yellow;
+    color: red;
+    text-align: center;
+}
+body{
+    background-color: red;
+}
+h2{
+    color: rgb(47, 5, 201);
+    background-color: yellow;
+
+    text-align: center;
+}
+h3{
+    color: rgb(47, 5, 201);
+    background-color: yellow;
+
+    text-align: center;
+}
+a{
+    size: 1000px;
+}
+img{
+    align-items: center;
+    width: 100px;
+}
+table{
+        border-color: black;
+        align-items: center;
+}
